@@ -36,3 +36,7 @@ This repository provides comprehensive security patterns and implementation guid
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Ariff Mohamed
